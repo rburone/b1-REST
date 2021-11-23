@@ -1,0 +1,16 @@
+{
+  "name": "bur1",
+  "version": "1.0.1",
+  "description": "Bur1's Rest Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bur1",
+    "utils",
+    "tools"
+  ],
+  "author": "Ricardo Daniel Burone",
+  "license": "MIT"
+}

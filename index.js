@@ -1,4 +1,4 @@
-const b1Rest = require('./lib/b1-REST.js')
-const b1StoreRest = require('./lib/b1-STORE-REST.js')
+import b1Rest from './lib/b1-REST.js'
+import b1StoreRest from './lib/b1-STORE-REST.js'
 
-module.exports = {b1Rest, b1StoreRest}
+export default {b1Rest, b1StoreRest}

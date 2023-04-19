@@ -1,6 +1,6 @@
 {
   "name": "bur1",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Bur1's Rest Tools",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,8 @@
   "keywords": [
     "bur1",
     "utils",
-    "tools"
+    "tools",
+    "rest"
   ],
   "author": "Ricardo Daniel Burone",
   "license": "MIT"
